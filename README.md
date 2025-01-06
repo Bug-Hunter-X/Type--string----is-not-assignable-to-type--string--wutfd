@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: assigning an array to a string variable. The `greeter` function expects a string, but it receives a string array.  The solution shows how to correctly handle this using type checking and array manipulation.
